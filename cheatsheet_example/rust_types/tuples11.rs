@@ -1,0 +1,1 @@
+let tuple = (1, 'A', "cool", 78, true);

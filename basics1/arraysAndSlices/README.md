@@ -1,0 +1,1 @@
+All statically_typed languages have arrays, which are values packed nose to tail in memory. Arrays are indexed from zero.
